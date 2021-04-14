@@ -36,7 +36,7 @@ subtitle                 :  #"Version 0.1"
 name                     : "DWFritz Software Engineering"
 description              : "A Knowledge Base for all things regarding ZeroTouch, Aether Software, and DWFritz non-contact metrology systems."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "ZTFORMS" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/wh_3.png 
 logo                     : /assets/images/DW_Fritz_CorpLogo.png
